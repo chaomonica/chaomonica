@@ -28,7 +28,7 @@ Technologies..
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![React Router](https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=reactrouter)
+![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
 
 #### 🛠 OS & IDE & Tools <br />
 
