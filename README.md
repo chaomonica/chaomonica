@@ -33,6 +33,8 @@ Technologies..
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+<br />
+![Express](http://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=4479A1)
 
 #### 🛠 OS & IDE & Tools <br />
 
@@ -41,7 +43,7 @@ Technologies..
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 <br />
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaomonica/chaomonica)
 
