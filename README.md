@@ -5,7 +5,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/chaomonica/chaomonica/main/banner.jpg" alt="Banner about Monica Chao">
 
-I am a full stack software engineer passionate about building applications that improve people’s lives.  My focus is on translating user stories into quality, scalable applications that take into account not just functionality but also maintainability and interpretability. 
+I am a full stack software engineer passionate about building applications that improve people’s lives.  I love learning about new technologies and putting them into use in my own projects!
 <br><br/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-chao/)](https://www.linkedin.com/in/monica-chao/)
 
@@ -28,6 +28,7 @@ Technologies..
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![React Router](https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=reactrouter)
 
 #### 🛠 OS & IDE & Tools <br />
 
