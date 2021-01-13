@@ -13,7 +13,7 @@ I am a full stack software engineer passionate about building applications that 
 
 Technologies..
 
-#### 🌐 Frontend : <br />
+#### 🌱 Frontend : <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -27,7 +27,7 @@ Technologies..
 <br />
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)
 
-#### ✨ Backend : <br />
+#### 🌳 Backend : <br />
 
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
