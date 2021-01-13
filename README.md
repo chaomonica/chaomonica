@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div align="center">
   <h2> 
-    Hi, there! I am Monica <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
+   👋 Hi, there! I am Monica <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
   </h2>
 </div>
 <img src="https://raw.githubusercontent.com/chaomonica/chaomonica/main/banner.jpg" alt="Banner about Monica Chao">
