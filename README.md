@@ -13,15 +13,6 @@ I am a full stack software engineer passionate about building applications that 
 
 Technologies..
 
-
-#### ✨ Backend : <br />
-
-![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
-![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
-
-
 #### 🌐 Frontend : <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -34,12 +25,19 @@ Technologies..
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)
 
+#### ✨ Backend : <br />
+
+![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+
 #### 🛠 OS & IDE & Tools <br />
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon-aws)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaomonica/chaomonica)
