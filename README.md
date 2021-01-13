@@ -17,6 +17,7 @@ Technologies..
 #### ✨ Backend : <br />
 
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -24,11 +25,12 @@ Technologies..
 
 #### 🌐 Frontend : <br />
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat&logo=react-router)
 
 #### 🛠 OS & IDE & Tools <br />
 
