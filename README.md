@@ -16,11 +16,10 @@ Technologies..
 
 #### ✨ Backend : <br />
 
-![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
-![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
-![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
+![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 
 
 #### 🌐 Frontend : <br />
@@ -31,6 +30,9 @@ Technologies..
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat&logo=react-router)
+![Babel](https://img.shields.io/badge/-Babel-black?style=flat&logo=babel)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)
 
 #### 🛠 OS & IDE & Tools <br />
 
@@ -38,7 +40,7 @@ Technologies..
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon-aws)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaomonica/chaomonica)
 
