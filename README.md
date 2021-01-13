@@ -20,6 +20,7 @@ Technologies..
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+<br />
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat&logo=react-router)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=flat&logo=babel)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
@@ -38,6 +39,7 @@ Technologies..
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+<br />
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon-aws)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaomonica/chaomonica)
